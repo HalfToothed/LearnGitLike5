@@ -29,3 +29,33 @@ Tim also learned that Git could help him create different versions of his toybox
 Finally, Tim learned that Git could help him collaborate with his friends on his toybox. If he had a friend who wanted to play with his toys too, they could create a separate version of the toybox just for them. Then, they could both make changes to their own versions of the toybox without interfering with each other's work.
 
 From then on, Tim was very happy knowing that he had Git to help him keep track of his toys and play with his friends. And he never had to worry about losing track of all the changes he made to his toys ever again!
+
+Advanced Git
+
+    Rebasing:
+
+Rebasing is like rearranging blocks in a tower. It lets you change the order of your work so that it looks neater and more organized.
+
+    Resetting:
+
+Resetting is like hitting the undo button on a toy car. It lets you go back to an earlier version of your work, so you can fix any mistakes you made along the way.
+
+    Cherry picking:
+
+Cherry picking is like picking your favorite parts from different toys and putting them together to make a new one. It lets you choose specific changes you want to use without having to use everything else.
+
+    Stashing:
+
+Stashing is like putting your toys away in a box for safekeeping. It lets you save your work without having to finish it right away, so you can come back to it later.
+
+    Aliases:
+
+Aliases are like nicknames for commands. They let you give your toys funny names to make them easier to remember and play with.
+
+    Hooks:
+
+Hooks are like magic spells that you can use to help you play with your toys. They let you automate tasks like cleaning up your toys or putting them away when you're done playing.
+
+    Submodules:
+
+Submodules are like special toy parts that you can use to make different toys. They let you use the same toy part in different toys without having to make the same toy part over and over again.
